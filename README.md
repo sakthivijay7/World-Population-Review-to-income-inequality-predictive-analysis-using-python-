@@ -10,7 +10,7 @@ Excel power query editor to all files merged by country and remove unnecessary c
 Data read:
 1.Pandas to read the merged dataset and describe the statistical report of numerical values.
 
-2.clean the column values only contains numerical values other noisy signs {"$",","} and values {"Tn","Bn","Mn"}
+2.clean the column values only contains numerical values other noisy signs {"$",","} and values {"Tn","Bn","Mn"}are removed
 
 Null values:
 SimpleImputer mean and median to fill in the nullvalues. 
