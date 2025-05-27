@@ -5,10 +5,10 @@ Population page,Crime page,education page,GDP (GrossDomesticProduct)page,agricul
 save all files in csv format.
 
 Data Handle:
-Excel power quary editor to all files merge with country and remove unnecessary columns and clean named it.
+Excel power query editor to all files merged by country and remove unnecessary columns and cleaned named.
 
 Data read:
-1.Pandas to read the merged file dataset and describe the statistical report of numerical values.
+1.Pandas to read the merged dataset and describe the statistical report of numerical values.
 
 2.clean the column values only contains numerical values other noisy signs {"$",","} and values {"Tn","Bn","Mn"}
 
