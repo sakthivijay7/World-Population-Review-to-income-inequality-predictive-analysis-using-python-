@@ -36,8 +36,8 @@ used algorithms `DecisionTreeRegressor,RandomForestRegressor,XGBRegressor`  and 
 Model save in the pickle file for prediction.
 
 - **Result:**
-`xgboost MSE: 0.02419725614037578
-Xgboost r2_score: 0.9995629665896157
+`xgboost MSE: 0.0241
+Xgboost r2_score: 0.9995
 xgboost less mse and high r2_score.`
 
 - **Validation:**
